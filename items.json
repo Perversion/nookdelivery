@@ -8,7 +8,21 @@
     "quantity": 1,
     "hot": false,
     "category": "Currency",
-    "imageUrl": "/assets/icons/tickets.svg"
-    "variants": []
+    "imageUrl": "/images/nmt2.png"
+    "variants": [{
+      "id": 1,
+      "description": "Gold",
+      "imageUrl": "/images/nmt1.png"
+    },
+    {
+      "id": 2,
+      "description": "Pale Green",
+      "imageUrl": "/images/nmt2.png"
+    },
+    {
+      "id": 3,
+      "description": "Green",
+      "imageUrl": "/images/nmt3.png"
+    }]
   },
 ]
