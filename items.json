@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "100 Nook Miles Tickets",
+    "description": "In-Game Ticket",
+    "price": 1.83,
+    "discount": 0,
+    "quantity": 1,
+    "hot": false,
+    "category": "Currency",
+    "imageUrl": "/assets/icons/tickets.svg"
+    "variants": []
+  },
+]
