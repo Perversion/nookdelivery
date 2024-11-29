@@ -1,0 +1,18 @@
+[
+  {
+    "id": 504,
+    "categoryId": "004",
+    "name": "Frugal Dress",
+    "description": "Green",
+    "price": 1.22,
+    "discount": 23,
+    "quantity": 1,
+    "hot": false,
+    "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple1.png",
+    "variants": [
+      {
+        "id": 1
+      }
+    ]
+  }
+]
