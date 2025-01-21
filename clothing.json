@@ -11,7 +11,21 @@
     "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple1.png",
     "variants": [
       {
-        "id": 1
+        "id": 1,
+        "name": "",
+        "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple2.png"
+      }
+    ],
+    "bundle": [
+      {
+        "itemId": 22,
+        "categoryId": "004",
+        "quantity": 3
+      },
+      {
+        "itemId": 23,
+        "categoryId": "004",
+        "quantity": 3
       }
     ]
   }
