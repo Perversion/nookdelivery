@@ -3,6 +3,7 @@
     "id": 1111,
     "categoryId": "004",
     "name": "Dev 1337",
+    "shortDescription": "Green",
     "description": "Green",
     "price": 0.0,
     "discount": 0,
@@ -32,7 +33,8 @@
   {
     "id": 1112,
     "categoryId": "004",
-    "name": "Dev 1337",
+    "name": "Dev 13333337",
+    "shortDescription": "Green",
     "description": "Green",
     "price": 0.01,
     "discount": 0,
