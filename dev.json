@@ -44,17 +44,17 @@
     "variants": [
       {
         "id": 1,
-        "name": "",
+        "name": "test 1",
         "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple2.png"
       },
       {
         "id": 2,
-        "name": "",
+        "name": "test 2",
         "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple2.png"
       },
       {
         "id": 3,
-        "name": "",
+        "name": "test 3",
         "imageUrl": "/Clothing/Clothings+21/TopsTexOnepieceBalloonHSimple2.png"
       }
     ],
