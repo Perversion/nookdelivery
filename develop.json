@@ -1,7 +1,7 @@
 [
   {
     "id": 1111,
-    "categoryId": "004",
+    "category": "develop",
     "name": "Dev 1337",
     "shortDescription": "Green",
     "description": "Green",
@@ -20,19 +20,19 @@
     "bundle": [
       {
         "itemId": 22,
-        "categoryId": "004",
+        "category": "develop",
         "quantity": 3
       },
       {
         "itemId": 23,
-        "categoryId": "004",
+        "category": "develop",
         "quantity": 3
       }
     ]
   },
   {
     "id": 1112,
-    "categoryId": "004",
+    "category": "develop",
     "name": "Dev 13333337",
     "shortDescription": "Green",
     "description": "Green",
@@ -61,12 +61,12 @@
     "bundle": [
       {
         "itemId": 22,
-        "categoryId": "004",
+        "category": "develop",
         "quantity": 3
       },
       {
         "itemId": 23,
-        "categoryId": "004",
+        "category": "develop",
         "quantity": 3
       }
     ]

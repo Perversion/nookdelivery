@@ -1,7 +1,7 @@
 [
   {
-    "id": 504,
-    "categoryId": "004",
+    "id": 1,
+    "category": "clothing",
     "name": "Frugal Dress",
     "description": "Green",
     "price": 1.22,

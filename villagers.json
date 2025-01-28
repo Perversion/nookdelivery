@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ace",
     "shortDescription": "Villager",
     "description": "Ace in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Admiral",
     "shortDescription": "Villager",
     "description": "Admiral in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Agent S",
     "shortDescription": "Villager",
     "description": "Agent S in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Agnes",
     "shortDescription": "Villager",
     "description": "Agnes in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Al",
     "shortDescription": "Villager",
     "description": "Al in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Alfonso",
     "shortDescription": "Villager",
     "description": "Alfonso in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Alice",
     "shortDescription": "Villager",
     "description": "Alice in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -99,7 +99,7 @@
   },
   {
     "id": 8,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Alli",
     "shortDescription": "Villager",
     "description": "Alli in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Amelia",
     "shortDescription": "Villager",
     "description": "Amelia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 10,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Anabelle",
     "shortDescription": "Villager",
     "description": "Anabelle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -141,7 +141,7 @@
   },
   {
     "id": 11,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Anchovy",
     "shortDescription": "Villager",
     "description": "Anchovy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -155,7 +155,7 @@
   },
   {
     "id": 12,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Angus",
     "shortDescription": "Villager",
     "description": "Angus in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -169,7 +169,7 @@
   },
   {
     "id": 13,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Anicotti",
     "shortDescription": "Villager",
     "description": "Anicotti in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -183,7 +183,7 @@
   },
   {
     "id": 14,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ankha",
     "shortDescription": "Villager",
     "description": "Ankha in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -197,7 +197,7 @@
   },
   {
     "id": 15,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Annalisa",
     "shortDescription": "Villager",
     "description": "Annalisa in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -211,7 +211,7 @@
   },
   {
     "id": 16,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Annalise",
     "shortDescription": "Villager",
     "description": "Annalise in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -225,7 +225,7 @@
   },
   {
     "id": 17,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Antonio",
     "shortDescription": "Villager",
     "description": "Antonio in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -239,7 +239,7 @@
   },
   {
     "id": 18,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Apollo",
     "shortDescription": "Villager",
     "description": "Apollo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 19,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Apple",
     "shortDescription": "Villager",
     "description": "Apple in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -267,7 +267,7 @@
   },
   {
     "id": 20,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Astrid",
     "shortDescription": "Villager",
     "description": "Astrid in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -281,7 +281,7 @@
   },
   {
     "id": 21,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Audie",
     "shortDescription": "Villager",
     "description": "Audie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -295,7 +295,7 @@
   },
   {
     "id": 22,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Aurora",
     "shortDescription": "Villager",
     "description": "Aurora in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -309,7 +309,7 @@
   },
   {
     "id": 23,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ava",
     "shortDescription": "Villager",
     "description": "Ava in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -323,7 +323,7 @@
   },
   {
     "id": 24,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Avery",
     "shortDescription": "Villager",
     "description": "Avery in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -337,7 +337,7 @@
   },
   {
     "id": 25,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Axel",
     "shortDescription": "Villager",
     "description": "Axel in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -351,7 +351,7 @@
   },
   {
     "id": 26,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Azalea",
     "shortDescription": "Villager",
     "description": "Azalea in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -365,7 +365,7 @@
   },
   {
     "id": 27,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Baabara",
     "shortDescription": "Villager",
     "description": "Baabara in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -379,7 +379,7 @@
   },
   {
     "id": 28,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bam",
     "shortDescription": "Villager",
     "description": "Bam in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -393,7 +393,7 @@
   },
   {
     "id": 29,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bangle",
     "shortDescription": "Villager",
     "description": "Bangle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -407,7 +407,7 @@
   },
   {
     "id": 30,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Barold",
     "shortDescription": "Villager",
     "description": "Barold in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -421,7 +421,7 @@
   },
   {
     "id": 31,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bea",
     "shortDescription": "Villager",
     "description": "Bea in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -435,7 +435,7 @@
   },
   {
     "id": 32,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Beardo",
     "shortDescription": "Villager",
     "description": "Beardo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -449,7 +449,7 @@
   },
   {
     "id": 33,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Beau",
     "shortDescription": "Villager",
     "description": "Beau in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -463,7 +463,7 @@
   },
   {
     "id": 34,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Becky",
     "shortDescription": "Villager",
     "description": "Becky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -477,7 +477,7 @@
   },
   {
     "id": 35,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bella",
     "shortDescription": "Villager",
     "description": "Bella in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -491,7 +491,7 @@
   },
   {
     "id": 36,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Benedict",
     "shortDescription": "Villager",
     "description": "Benedict in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -505,7 +505,7 @@
   },
   {
     "id": 37,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Benjamin",
     "shortDescription": "Villager",
     "description": "Benjamin in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -519,7 +519,7 @@
   },
   {
     "id": 38,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bertha",
     "shortDescription": "Villager",
     "description": "Bertha in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -533,7 +533,7 @@
   },
   {
     "id": 39,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bettina",
     "shortDescription": "Villager",
     "description": "Bettina in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -547,7 +547,7 @@
   },
   {
     "id": 40,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bianca",
     "shortDescription": "Villager",
     "description": "Bianca in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -561,7 +561,7 @@
   },
   {
     "id": 41,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Biff",
     "shortDescription": "Villager",
     "description": "Biff in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -575,7 +575,7 @@
   },
   {
     "id": 42,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Big Top",
     "shortDescription": "Villager",
     "description": "Big Top in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -589,7 +589,7 @@
   },
   {
     "id": 43,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bill",
     "shortDescription": "Villager",
     "description": "Bill in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -603,7 +603,7 @@
   },
   {
     "id": 44,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Billy",
     "shortDescription": "Villager",
     "description": "Billy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -617,7 +617,7 @@
   },
   {
     "id": 45,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Biskit",
     "shortDescription": "Villager",
     "description": "Biskit in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -631,7 +631,7 @@
   },
   {
     "id": 46,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bitty",
     "shortDescription": "Villager",
     "description": "Bitty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -645,7 +645,7 @@
   },
   {
     "id": 47,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Blaire",
     "shortDescription": "Villager",
     "description": "Blaire in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -659,7 +659,7 @@
   },
   {
     "id": 48,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Blanche",
     "shortDescription": "Villager",
     "description": "Blanche in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -673,7 +673,7 @@
   },
   {
     "id": 49,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bluebear",
     "shortDescription": "Villager",
     "description": "Bluebear in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -687,7 +687,7 @@
   },
   {
     "id": 50,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bob",
     "shortDescription": "Villager",
     "description": "Bob in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -701,7 +701,7 @@
   },
   {
     "id": 51,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bonbon",
     "shortDescription": "Villager",
     "description": "Bonbon in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -715,7 +715,7 @@
   },
   {
     "id": 52,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bones",
     "shortDescription": "Villager",
     "description": "Bones in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -729,7 +729,7 @@
   },
   {
     "id": 53,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Boomer",
     "shortDescription": "Villager",
     "description": "Boomer in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -743,7 +743,7 @@
   },
   {
     "id": 54,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Boone",
     "shortDescription": "Villager",
     "description": "Boone in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -757,7 +757,7 @@
   },
   {
     "id": 55,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Boots",
     "shortDescription": "Villager",
     "description": "Boots in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -771,7 +771,7 @@
   },
   {
     "id": 56,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Boris",
     "shortDescription": "Villager",
     "description": "Boris in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -785,7 +785,7 @@
   },
   {
     "id": 57,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Boyd",
     "shortDescription": "Villager",
     "description": "Boyd in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -799,7 +799,7 @@
   },
   {
     "id": 58,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bree",
     "shortDescription": "Villager",
     "description": "Bree in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -813,7 +813,7 @@
   },
   {
     "id": 59,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Broccolo",
     "shortDescription": "Villager",
     "description": "Broccolo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -827,7 +827,7 @@
   },
   {
     "id": 60,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Broffina",
     "shortDescription": "Villager",
     "description": "Broffina in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -841,7 +841,7 @@
   },
   {
     "id": 61,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bruce",
     "shortDescription": "Villager",
     "description": "Bruce in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -855,7 +855,7 @@
   },
   {
     "id": 62,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bubbles",
     "shortDescription": "Villager",
     "description": "Bubbles in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -869,7 +869,7 @@
   },
   {
     "id": 63,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Buck",
     "shortDescription": "Villager",
     "description": "Buck in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -883,7 +883,7 @@
   },
   {
     "id": 64,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bud",
     "shortDescription": "Villager",
     "description": "Bud in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -897,7 +897,7 @@
   },
   {
     "id": 65,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Bunnie",
     "shortDescription": "Villager",
     "description": "Bunnie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -911,7 +911,7 @@
   },
   {
     "id": 66,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Butch",
     "shortDescription": "Villager",
     "description": "Butch in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -925,7 +925,7 @@
   },
   {
     "id": 67,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Buzz",
     "shortDescription": "Villager",
     "description": "Buzz in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -939,7 +939,7 @@
   },
   {
     "id": 68,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cally",
     "shortDescription": "Villager",
     "description": "Cally in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -953,7 +953,7 @@
   },
   {
     "id": 69,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Camofrog",
     "shortDescription": "Villager",
     "description": "Camofrog in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -967,7 +967,7 @@
   },
   {
     "id": 70,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Canberra",
     "shortDescription": "Villager",
     "description": "Canberra in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -981,7 +981,7 @@
   },
   {
     "id": 71,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Candi",
     "shortDescription": "Villager",
     "description": "Candi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -995,7 +995,7 @@
   },
   {
     "id": 72,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Carmen",
     "shortDescription": "Villager",
     "description": "Carmen in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 73,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Caroline",
     "shortDescription": "Villager",
     "description": "Caroline in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 74,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Carrie",
     "shortDescription": "Villager",
     "description": "Carrie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1037,7 +1037,7 @@
   },
   {
     "id": 75,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cashmere",
     "shortDescription": "Villager",
     "description": "Cashmere in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 76,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Celia",
     "shortDescription": "Villager",
     "description": "Celia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 77,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cephalobot",
     "shortDescription": "Villager",
     "description": "Cephalobot in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 78,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cesar",
     "shortDescription": "Villager",
     "description": "Cesar in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 79,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chabwick",
     "shortDescription": "Villager",
     "description": "Chabwick in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1107,7 +1107,7 @@
   },
   {
     "id": 80,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chadder",
     "shortDescription": "Villager",
     "description": "Chadder in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 81,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chai",
     "shortDescription": "Villager",
     "description": "Chai in Animal Crossing New Horizons. Available in-game after the 1.9.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 82,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Charlise",
     "shortDescription": "Villager",
     "description": "Charlise in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1149,7 +1149,7 @@
   },
   {
     "id": 83,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chelsea",
     "shortDescription": "Villager",
     "description": "Chelsea in Animal Crossing New Horizons. Available in-game after the 1.9.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1163,7 +1163,7 @@
   },
   {
     "id": 84,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cheri",
     "shortDescription": "Villager",
     "description": "Cheri in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 85,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cherry",
     "shortDescription": "Villager",
     "description": "Cherry in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 86,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chester",
     "shortDescription": "Villager",
     "description": "Chester in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1205,7 +1205,7 @@
   },
   {
     "id": 87,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chevre",
     "shortDescription": "Villager",
     "description": "Chevre in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1219,7 +1219,7 @@
   },
   {
     "id": 88,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chief",
     "shortDescription": "Villager",
     "description": "Chief in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 89,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chops",
     "shortDescription": "Villager",
     "description": "Chops in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1247,7 +1247,7 @@
   },
   {
     "id": 90,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chow",
     "shortDescription": "Villager",
     "description": "Chow in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 91,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Chrissy",
     "shortDescription": "Villager",
     "description": "Chrissy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 92,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Claude",
     "shortDescription": "Villager",
     "description": "Claude in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 93,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Claudia",
     "shortDescription": "Villager",
     "description": "Claudia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": 94,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Clay",
     "shortDescription": "Villager",
     "description": "Clay in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1317,7 +1317,7 @@
   },
   {
     "id": 95,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cleo",
     "shortDescription": "Villager",
     "description": "Cleo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 96,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Clyde",
     "shortDescription": "Villager",
     "description": "Clyde in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 97,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Coach",
     "shortDescription": "Villager",
     "description": "Coach in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1359,7 +1359,7 @@
   },
   {
     "id": 98,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cobb",
     "shortDescription": "Villager",
     "description": "Cobb in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 99,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Coco",
     "shortDescription": "Villager",
     "description": "Coco in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 100,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cole",
     "shortDescription": "Villager",
     "description": "Cole in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 101,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Colton",
     "shortDescription": "Villager",
     "description": "Colton in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1415,7 +1415,7 @@
   },
   {
     "id": 102,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cookie",
     "shortDescription": "Villager",
     "description": "Cookie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1429,7 +1429,7 @@
   },
   {
     "id": 103,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cousteau",
     "shortDescription": "Villager",
     "description": "Cousteau in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1443,7 +1443,7 @@
   },
   {
     "id": 104,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cranston",
     "shortDescription": "Villager",
     "description": "Cranston in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": 105,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Croque",
     "shortDescription": "Villager",
     "description": "Croque in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 106,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cube",
     "shortDescription": "Villager",
     "description": "Cube in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1485,7 +1485,7 @@
   },
   {
     "id": 107,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Curlos",
     "shortDescription": "Villager",
     "description": "Curlos in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1499,7 +1499,7 @@
   },
   {
     "id": 108,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Curly",
     "shortDescription": "Villager",
     "description": "Curly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": 109,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Curt",
     "shortDescription": "Villager",
     "description": "Curt in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 110,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cyd",
     "shortDescription": "Villager",
     "description": "Cyd in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 111,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Cyrano",
     "shortDescription": "Villager",
     "description": "Cyrano in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1555,7 +1555,7 @@
   },
   {
     "id": 112,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Daisy",
     "shortDescription": "Villager",
     "description": "Daisy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1569,7 +1569,7 @@
   },
   {
     "id": 113,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Deena",
     "shortDescription": "Villager",
     "description": "Deena in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1583,7 +1583,7 @@
   },
   {
     "id": 114,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Deirdre",
     "shortDescription": "Villager",
     "description": "Deirdre in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 115,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Del",
     "shortDescription": "Villager",
     "description": "Del in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 116,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Deli",
     "shortDescription": "Villager",
     "description": "Deli in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1625,7 +1625,7 @@
   },
   {
     "id": 117,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Derwin",
     "shortDescription": "Villager",
     "description": "Derwin in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 118,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Diana",
     "shortDescription": "Villager",
     "description": "Diana in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1653,7 +1653,7 @@
   },
   {
     "id": 119,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Diva",
     "shortDescription": "Villager",
     "description": "Diva in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1667,7 +1667,7 @@
   },
   {
     "id": 120,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Dizzy",
     "shortDescription": "Villager",
     "description": "Dizzy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 121,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Dobie",
     "shortDescription": "Villager",
     "description": "Dobie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 122,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Doc",
     "shortDescription": "Villager",
     "description": "Doc in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1709,7 +1709,7 @@
   },
   {
     "id": 123,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Dom",
     "shortDescription": "Villager",
     "description": "Dom in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1723,7 +1723,7 @@
   },
   {
     "id": 124,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Dora",
     "shortDescription": "Villager",
     "description": "Dora in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1737,7 +1737,7 @@
   },
   {
     "id": 125,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Dotty",
     "shortDescription": "Villager",
     "description": "Dotty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1751,7 +1751,7 @@
   },
   {
     "id": 126,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Drago",
     "shortDescription": "Villager",
     "description": "Drago in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 127,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Drake",
     "shortDescription": "Villager",
     "description": "Drake in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1779,7 +1779,7 @@
   },
   {
     "id": 128,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Drift",
     "shortDescription": "Villager",
     "description": "Drift in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 129,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ed",
     "shortDescription": "Villager",
     "description": "Ed in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1807,7 +1807,7 @@
   },
   {
     "id": 130,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Egbert",
     "shortDescription": "Villager",
     "description": "Egbert in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1821,7 +1821,7 @@
   },
   {
     "id": 131,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Elise",
     "shortDescription": "Villager",
     "description": "Elise in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1835,7 +1835,7 @@
   },
   {
     "id": 132,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ellie",
     "shortDescription": "Villager",
     "description": "Ellie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 133,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Elmer",
     "shortDescription": "Villager",
     "description": "Elmer in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1863,7 +1863,7 @@
   },
   {
     "id": 134,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Eloise",
     "shortDescription": "Villager",
     "description": "Eloise in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1877,7 +1877,7 @@
   },
   {
     "id": 135,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Elvis",
     "shortDescription": "Villager",
     "description": "Elvis in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": 136,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Erik",
     "shortDescription": "Villager",
     "description": "Erik in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1905,7 +1905,7 @@
   },
   {
     "id": 137,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Étoile",
     "shortDescription": "Villager",
     "description": "Étoile in Animal Crossing New Horizons. Available in-game after the 1.9.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1919,7 +1919,7 @@
   },
   {
     "id": 138,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Eugene",
     "shortDescription": "Villager",
     "description": "Eugene in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 139,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Eunice",
     "shortDescription": "Villager",
     "description": "Eunice in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1947,7 +1947,7 @@
   },
   {
     "id": 140,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Faith",
     "shortDescription": "Villager",
     "description": "Faith in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1961,7 +1961,7 @@
   },
   {
     "id": 141,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Fang",
     "shortDescription": "Villager",
     "description": "Fang in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1975,7 +1975,7 @@
   },
   {
     "id": 142,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Fauna",
     "shortDescription": "Villager",
     "description": "Fauna in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -1989,7 +1989,7 @@
   },
   {
     "id": 143,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Felicity",
     "shortDescription": "Villager",
     "description": "Felicity in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2003,7 +2003,7 @@
   },
   {
     "id": 144,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Filbert",
     "shortDescription": "Villager",
     "description": "Filbert in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": 145,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Flip",
     "shortDescription": "Villager",
     "description": "Flip in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2031,7 +2031,7 @@
   },
   {
     "id": 146,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Flo",
     "shortDescription": "Villager",
     "description": "Flo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2045,7 +2045,7 @@
   },
   {
     "id": 147,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Flora",
     "shortDescription": "Villager",
     "description": "Flora in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2059,7 +2059,7 @@
   },
   {
     "id": 148,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Flurry",
     "shortDescription": "Villager",
     "description": "Flurry in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2073,7 +2073,7 @@
   },
   {
     "id": 149,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Francine",
     "shortDescription": "Villager",
     "description": "Francine in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2087,7 +2087,7 @@
   },
   {
     "id": 150,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Frank",
     "shortDescription": "Villager",
     "description": "Frank in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": 151,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Freckles",
     "shortDescription": "Villager",
     "description": "Freckles in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2115,7 +2115,7 @@
   },
   {
     "id": 152,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Frett",
     "shortDescription": "Villager",
     "description": "Frett in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2129,7 +2129,7 @@
   },
   {
     "id": 153,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Freya",
     "shortDescription": "Villager",
     "description": "Freya in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2143,7 +2143,7 @@
   },
   {
     "id": 154,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Friga",
     "shortDescription": "Villager",
     "description": "Friga in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2157,7 +2157,7 @@
   },
   {
     "id": 155,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Frita",
     "shortDescription": "Villager",
     "description": "Frita in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2171,7 +2171,7 @@
   },
   {
     "id": 156,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Frobert",
     "shortDescription": "Villager",
     "description": "Frobert in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2185,7 +2185,7 @@
   },
   {
     "id": 157,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Fuchsia",
     "shortDescription": "Villager",
     "description": "Fuchsia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2199,7 +2199,7 @@
   },
   {
     "id": 158,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gabi",
     "shortDescription": "Villager",
     "description": "Gabi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2213,7 +2213,7 @@
   },
   {
     "id": 159,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gala",
     "shortDescription": "Villager",
     "description": "Gala in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 160,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gaston",
     "shortDescription": "Villager",
     "description": "Gaston in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2241,7 +2241,7 @@
   },
   {
     "id": 161,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gayle",
     "shortDescription": "Villager",
     "description": "Gayle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2255,7 +2255,7 @@
   },
   {
     "id": 162,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Genji",
     "shortDescription": "Villager",
     "description": "Genji in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 163,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gigi",
     "shortDescription": "Villager",
     "description": "Gigi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2283,7 +2283,7 @@
   },
   {
     "id": 164,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gladys",
     "shortDescription": "Villager",
     "description": "Gladys in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2297,7 +2297,7 @@
   },
   {
     "id": 165,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gloria",
     "shortDescription": "Villager",
     "description": "Gloria in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 166,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Goldie",
     "shortDescription": "Villager",
     "description": "Goldie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2325,7 +2325,7 @@
   },
   {
     "id": 167,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gonzo",
     "shortDescription": "Villager",
     "description": "Gonzo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2339,7 +2339,7 @@
   },
   {
     "id": 168,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Goose",
     "shortDescription": "Villager",
     "description": "Goose in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": 169,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Graham",
     "shortDescription": "Villager",
     "description": "Graham in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2367,7 +2367,7 @@
   },
   {
     "id": 170,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Greta",
     "shortDescription": "Villager",
     "description": "Greta in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2381,7 +2381,7 @@
   },
   {
     "id": 171,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Grizzly",
     "shortDescription": "Villager",
     "description": "Grizzly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2395,7 +2395,7 @@
   },
   {
     "id": 172,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Groucho",
     "shortDescription": "Villager",
     "description": "Grizzly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2409,7 +2409,7 @@
   },
   {
     "id": 173,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gruff",
     "shortDescription": "Villager",
     "description": "Gruff in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2423,7 +2423,7 @@
   },
   {
     "id": 174,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Gwen",
     "shortDescription": "Villager",
     "description": "Gwen in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2437,7 +2437,7 @@
   },
   {
     "id": 175,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hamlet",
     "shortDescription": "Villager",
     "description": "Hamlet in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2451,7 +2451,7 @@
   },
   {
     "id": 176,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hamphrey",
     "shortDescription": "Villager",
     "description": "Hamphrey in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2465,7 +2465,7 @@
   },
   {
     "id": 177,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hans",
     "shortDescription": "Villager",
     "description": "Hans in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 178,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Harry",
     "shortDescription": "Villager",
     "description": "Harry in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2493,7 +2493,7 @@
   },
   {
     "id": 179,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hazel",
     "shortDescription": "Villager",
     "description": "Hazel in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2507,7 +2507,7 @@
   },
   {
     "id": 180,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Henry",
     "shortDescription": "Villager",
     "description": "Henry in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": 181,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hippeux",
     "shortDescription": "Villager",
     "description": "Hippeux in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2535,7 +2535,7 @@
   },
   {
     "id": 182,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hopkins",
     "shortDescription": "Villager",
     "description": "Hopkins in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2549,7 +2549,7 @@
   },
   {
     "id": 183,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hopper",
     "shortDescription": "Villager",
     "description": "Hopper in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2563,7 +2563,7 @@
   },
   {
     "id": 184,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hornsby",
     "shortDescription": "Villager",
     "description": "Hornsby in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2577,7 +2577,7 @@
   },
   {
     "id": 185,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Huck",
     "shortDescription": "Villager",
     "description": "Huck in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": 186,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Hugh",
     "shortDescription": "Villager",
     "description": "Hugh in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 187,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Iggly",
     "shortDescription": "Villager",
     "description": "Iggly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2619,7 +2619,7 @@
   },
   {
     "id": 188,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ike",
     "shortDescription": "Villager",
     "description": "Ike in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2633,7 +2633,7 @@
   },
   {
     "id": 189,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ione",
     "shortDescription": "Villager",
     "description": "Ione in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 190,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jacob",
     "shortDescription": "Villager",
     "description": "Ione in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 191,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jacques",
     "shortDescription": "Villager",
     "description": "Jacques in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2675,7 +2675,7 @@
   },
   {
     "id": 192,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jambette",
     "shortDescription": "Villager",
     "description": "Jambette in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2689,7 +2689,7 @@
   },
   {
     "id": 193,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jay",
     "shortDescription": "Villager",
     "description": "Jay in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2703,7 +2703,7 @@
   },
   {
     "id": 194,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jeremiah",
     "shortDescription": "Villager",
     "description": "Jeremiah in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2717,7 +2717,7 @@
   },
   {
     "id": 195,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Jitters",
     "shortDescription": "Villager",
     "description": "Jitters in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 196,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Joey",
     "shortDescription": "Villager",
     "description": "Joey in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2745,7 +2745,7 @@
   },
   {
     "id": 197,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Judy",
     "shortDescription": "Villager",
     "description": "Judy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2759,7 +2759,7 @@
   },
   {
     "id": 198,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Julia",
     "shortDescription": "Villager",
     "description": "Julia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 199,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Julian",
     "shortDescription": "Villager",
     "description": "Julian in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2787,7 +2787,7 @@
   },
   {
     "id": 200,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "June",
     "shortDescription": "Villager",
     "description": "June in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2801,7 +2801,7 @@
   },
   {
     "id": 201,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kabuki",
     "shortDescription": "Villager",
     "description": "Kabuki in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2815,7 +2815,7 @@
   },
   {
     "id": 202,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Katt",
     "shortDescription": "Villager",
     "description": "Katt in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2829,7 +2829,7 @@
   },
   {
     "id": 203,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Keaton",
     "shortDescription": "Villager",
     "description": "Keaton in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2843,7 +2843,7 @@
   },
   {
     "id": 204,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ken",
     "shortDescription": "Villager",
     "description": "Ken in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 205,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ketchup",
     "shortDescription": "Villager",
     "description": "Ketchup in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": 206,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kevin",
     "shortDescription": "Villager",
     "description": "Kevin in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2885,7 +2885,7 @@
   },
   {
     "id": 207,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kid Cat",
     "shortDescription": "Villager",
     "description": "Kid Cat in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 208,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kidd",
     "shortDescription": "Villager",
     "description": "Kidd Cat in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2913,7 +2913,7 @@
   },
   {
     "id": 209,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kiki",
     "shortDescription": "Villager",
     "description": "Kiki Cat in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2927,7 +2927,7 @@
   },
   {
     "id": 210,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kitt",
     "shortDescription": "Villager",
     "description": "Kitt Cat in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 211,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kitty",
     "shortDescription": "Villager",
     "description": "Kitty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2955,7 +2955,7 @@
   },
   {
     "id": 212,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Klaus",
     "shortDescription": "Villager",
     "description": "Klaus in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2969,7 +2969,7 @@
   },
   {
     "id": 213,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Knox",
     "shortDescription": "Villager",
     "description": "Knox in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2983,7 +2983,7 @@
   },
   {
     "id": 214,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kody",
     "shortDescription": "Villager",
     "description": "Kody in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -2997,7 +2997,7 @@
   },
   {
     "id": 215,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Kyle",
     "shortDescription": "Villager",
     "description": "Kyle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3011,7 +3011,7 @@
   },
   {
     "id": 216,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Leonardo",
     "shortDescription": "Villager",
     "description": "Leonardo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": 217,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Leopold",
     "shortDescription": "Villager",
     "description": "Leopold in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3039,7 +3039,7 @@
   },
   {
     "id": 218,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lily",
     "shortDescription": "Villager",
     "description": "Lily in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3053,7 +3053,7 @@
   },
   {
     "id": 219,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Limberg",
     "shortDescription": "Villager",
     "description": "Limberg in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 220,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lionel",
     "shortDescription": "Villager",
     "description": "Lionel in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3081,7 +3081,7 @@
   },
   {
     "id": 221,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lobo",
     "shortDescription": "Villager",
     "description": "Lobo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3095,7 +3095,7 @@
   },
   {
     "id": 222,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lolly",
     "shortDescription": "Villager",
     "description": "Lolly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3109,7 +3109,7 @@
   },
   {
     "id": 223,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lopez",
     "shortDescription": "Villager",
     "description": "Lopez in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3123,7 +3123,7 @@
   },
   {
     "id": 224,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Louie",
     "shortDescription": "Villager",
     "description": "Louie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3137,7 +3137,7 @@
   },
   {
     "id": 225,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lucha",
     "shortDescription": "Villager",
     "description": "Lucha in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3151,7 +3151,7 @@
   },
   {
     "id": 226,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lucky",
     "shortDescription": "Villager",
     "description": "Lucky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3165,7 +3165,7 @@
   },
   {
     "id": 227,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lucy",
     "shortDescription": "Villager",
     "description": "Lucy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3179,7 +3179,7 @@
   },
   {
     "id": 228,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Lyman",
     "shortDescription": "Villager",
     "description": "Lyman in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3193,7 +3193,7 @@
   },
   {
     "id": 229,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mac",
     "shortDescription": "Villager",
     "description": "Mac in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3207,7 +3207,7 @@
   },
   {
     "id": 230,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Maddie",
     "shortDescription": "Villager",
     "description": "Maddie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3221,7 +3221,7 @@
   },
   {
     "id": 231,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Maelle",
     "shortDescription": "Villager",
     "description": "Maelle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3235,7 +3235,7 @@
   },
   {
     "id": 232,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Maggie",
     "shortDescription": "Villager",
     "description": "Maggie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3249,7 +3249,7 @@
   },
   {
     "id": 233,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mallary",
     "shortDescription": "Villager",
     "description": "Mallary in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3263,7 +3263,7 @@
   },
   {
     "id": 234,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Maple",
     "shortDescription": "Villager",
     "description": "Maple in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 235,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marcel",
     "shortDescription": "Villager",
     "description": "Marcel in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3291,7 +3291,7 @@
   },
   {
     "id": 236,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marcie",
     "shortDescription": "Villager",
     "description": "Marcie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3305,7 +3305,7 @@
   },
   {
     "id": 237,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Margie",
     "shortDescription": "Villager",
     "description": "Margie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 238,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marina",
     "shortDescription": "Villager",
     "description": "Marina in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3333,7 +3333,7 @@
   },
   {
     "id": 239,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marlo",
     "shortDescription": "Villager",
     "description": "Marlo in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3347,7 +3347,7 @@
   },
   {
     "id": 240,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marshal",
     "shortDescription": "Villager",
     "description": "Marshal in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 241,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Marty",
     "shortDescription": "Villager",
     "description": "Marty in Animal Crossing New Horizons. Available in-game after the 1.9.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3375,7 +3375,7 @@
   },
   {
     "id": 242,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mathilda",
     "shortDescription": "Villager",
     "description": "Mathilda in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 243,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Megan",
     "shortDescription": "Villager",
     "description": "Megan in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3403,7 +3403,7 @@
   },
   {
     "id": 244,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Melba",
     "shortDescription": "Villager",
     "description": "Melba in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3417,7 +3417,7 @@
   },
   {
     "id": 245,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Merengue",
     "shortDescription": "Villager",
     "description": "Merengue in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3431,7 +3431,7 @@
   },
   {
     "id": 246,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Merry",
     "shortDescription": "Villager",
     "description": "Merry in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3445,7 +3445,7 @@
   },
   {
     "id": 247,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Midge",
     "shortDescription": "Villager",
     "description": "Midge in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 248,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mint",
     "shortDescription": "Villager",
     "description": "Mint in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3473,7 +3473,7 @@
   },
   {
     "id": 249,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mira",
     "shortDescription": "Villager",
     "description": "Mira in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 250,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Miranda",
     "shortDescription": "Villager",
     "description": "Miranda in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3501,7 +3501,7 @@
   },
   {
     "id": 251,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mitzi",
     "shortDescription": "Villager",
     "description": "Mitzi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3515,7 +3515,7 @@
   },
   {
     "id": 252,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Moe",
     "shortDescription": "Villager",
     "description": "Moe in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 253,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Molly",
     "shortDescription": "Villager",
     "description": "Molly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3543,7 +3543,7 @@
   },
   {
     "id": 254,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Monique",
     "shortDescription": "Villager",
     "description": "Monique in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3557,7 +3557,7 @@
   },
   {
     "id": 255,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Monty",
     "shortDescription": "Villager",
     "description": "Monty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3571,7 +3571,7 @@
   },
   {
     "id": 256,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Moose",
     "shortDescription": "Villager",
     "description": "Moose in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3585,7 +3585,7 @@
   },
   {
     "id": 257,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Mott",
     "shortDescription": "Villager",
     "description": "Mott in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3599,7 +3599,7 @@
   },
   {
     "id": 258,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Muffy",
     "shortDescription": "Villager",
     "description": "Muffy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3613,7 +3613,7 @@
   },
   {
     "id": 259,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Murphy",
     "shortDescription": "Villager",
     "description": "Murphy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3627,7 +3627,7 @@
   },
   {
     "id": 260,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Nan",
     "shortDescription": "Villager",
     "description": "Nan in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": 261,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Nana",
     "shortDescription": "Villager",
     "description": "Nana in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3655,7 +3655,7 @@
   },
   {
     "id": 262,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Naomi",
     "shortDescription": "Villager",
     "description": "Naomi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3669,7 +3669,7 @@
   },
   {
     "id": 263,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Nate",
     "shortDescription": "Villager",
     "description": "Nate in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3683,7 +3683,7 @@
   },
   {
     "id": 264,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Nibbles",
     "shortDescription": "Villager",
     "description": "Nibbles in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3697,7 +3697,7 @@
   },
   {
     "id": 265,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Norma",
     "shortDescription": "Villager",
     "description": "Norma in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3711,7 +3711,7 @@
   },
   {
     "id": 266,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Octavian",
     "shortDescription": "Villager",
     "description": "Octavian in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3725,7 +3725,7 @@
   },
   {
     "id": 267,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "O'Hare",
     "shortDescription": "Villager",
     "description": "O'Hare in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3739,7 +3739,7 @@
   },
   {
     "id": 268,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Olaf",
     "shortDescription": "Villager",
     "description": "Olaf in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3753,7 +3753,7 @@
   },
   {
     "id": 269,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Olive",
     "shortDescription": "Villager",
     "description": "Olive in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3767,7 +3767,7 @@
   },
   {
     "id": 270,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Olivia",
     "shortDescription": "Villager",
     "description": "Olivia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 271,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Opal",
     "shortDescription": "Villager",
     "description": "Opal in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3795,7 +3795,7 @@
   },
   {
     "id": 272,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ozzie",
     "shortDescription": "Villager",
     "description": "Ozzie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3809,7 +3809,7 @@
   },
   {
     "id": 273,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pancetti",
     "shortDescription": "Villager",
     "description": "Pancetti in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3823,7 +3823,7 @@
   },
   {
     "id": 274,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pango",
     "shortDescription": "Villager",
     "description": "Pango in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3837,7 +3837,7 @@
   },
   {
     "id": 275,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Paolo",
     "shortDescription": "Villager",
     "description": "Paolo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3851,7 +3851,7 @@
   },
   {
     "id": 276,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Papi",
     "shortDescription": "Villager",
     "description": "Papi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3865,7 +3865,7 @@
   },
   {
     "id": 277,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pashmina",
     "shortDescription": "Villager",
     "description": "Pashmina in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3879,7 +3879,7 @@
   },
   {
     "id": 278,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pate",
     "shortDescription": "Villager",
     "description": "Pate in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3893,7 +3893,7 @@
   },
   {
     "id": 279,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Patty",
     "shortDescription": "Villager",
     "description": "Patty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3907,7 +3907,7 @@
   },
   {
     "id": 280,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Paula",
     "shortDescription": "Villager",
     "description": "Paula in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": 281,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Peaches",
     "shortDescription": "Villager",
     "description": "Peaches in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 282,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Peanut",
     "shortDescription": "Villager",
     "description": "Peanut in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3949,7 +3949,7 @@
   },
   {
     "id": 283,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pecan",
     "shortDescription": "Villager",
     "description": "Pecan in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3963,7 +3963,7 @@
   },
   {
     "id": 284,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Peck",
     "shortDescription": "Villager",
     "description": "Peck in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3977,7 +3977,7 @@
   },
   {
     "id": 285,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Peewee",
     "shortDescription": "Villager",
     "description": "Peewee in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -3991,7 +3991,7 @@
   },
   {
     "id": 286,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Peggy",
     "shortDescription": "Villager",
     "description": "Peggy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4005,7 +4005,7 @@
   },
   {
     "id": 287,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pekoe",
     "shortDescription": "Villager",
     "description": "Pekoe in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4019,7 +4019,7 @@
   },
   {
     "id": 288,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Penelope",
     "shortDescription": "Villager",
     "description": "Penelope in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4033,7 +4033,7 @@
   },
   {
     "id": 289,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Petri",
     "shortDescription": "Villager",
     "description": "Petri in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4047,7 +4047,7 @@
   },
   {
     "id": 290,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Phil",
     "shortDescription": "Villager",
     "description": "Phil in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4061,7 +4061,7 @@
   },
   {
     "id": 291,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Phoebe",
     "shortDescription": "Villager",
     "description": "Phoebe in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4075,7 +4075,7 @@
   },
   {
     "id": 292,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pierce",
     "shortDescription": "Villager",
     "description": "Pierce in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4089,7 +4089,7 @@
   },
   {
     "id": 293,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pietro",
     "shortDescription": "Villager",
     "description": "Pietro in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4103,7 +4103,7 @@
   },
   {
     "id": 294,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pinky",
     "shortDescription": "Villager",
     "description": "Pinky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4117,7 +4117,7 @@
   },
   {
     "id": 295,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Piper",
     "shortDescription": "Villager",
     "description": "Piper in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4131,7 +4131,7 @@
   },
   {
     "id": 296,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pippy",
     "shortDescription": "Villager",
     "description": "Pippy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4145,7 +4145,7 @@
   },
   {
     "id": 297,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Plucky",
     "shortDescription": "Villager",
     "description": "Plucky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 298,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pompom",
     "shortDescription": "Villager",
     "description": "Pompom in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4173,7 +4173,7 @@
   },
   {
     "id": 299,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Poncho",
     "shortDescription": "Villager",
     "description": "Poncho in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4187,7 +4187,7 @@
   },
   {
     "id": 300,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Poppy",
     "shortDescription": "Villager",
     "description": "Poppy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4201,7 +4201,7 @@
   },
   {
     "id": 301,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Portia",
     "shortDescription": "Villager",
     "description": "Portia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4215,7 +4215,7 @@
   },
   {
     "id": 302,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Prince",
     "shortDescription": "Villager",
     "description": "Prince in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4229,7 +4229,7 @@
   },
   {
     "id": 303,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Puck",
     "shortDescription": "Villager",
     "description": "Puck in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4243,7 +4243,7 @@
   },
   {
     "id": 304,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Puddles",
     "shortDescription": "Villager",
     "description": "Puddles in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4257,7 +4257,7 @@
   },
   {
     "id": 305,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Pudge",
     "shortDescription": "Villager",
     "description": "Pudge in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4271,7 +4271,7 @@
   },
   {
     "id": 306,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Punchy",
     "shortDescription": "Villager",
     "description": "Punchy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 307,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Purrl",
     "shortDescription": "Villager",
     "description": "Purrl in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4299,7 +4299,7 @@
   },
   {
     "id": 308,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Queenie",
     "shortDescription": "Villager",
     "description": "Queenie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4313,7 +4313,7 @@
   },
   {
     "id": 309,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Quillson",
     "shortDescription": "Villager",
     "description": "Quillson in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4327,7 +4327,7 @@
   },
   {
     "id": 310,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Quinn",
     "shortDescription": "Villager",
     "description": "Quinn in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4341,7 +4341,7 @@
   },
   {
     "id": 311,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Raddle",
     "shortDescription": "Villager",
     "description": "Raddle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4355,7 +4355,7 @@
   },
   {
     "id": 312,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rasher",
     "shortDescription": "Villager",
     "description": "Rasher in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4369,7 +4369,7 @@
   },
   {
     "id": 313,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Raymond",
     "shortDescription": "Villager",
     "description": "Raymond in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4383,7 +4383,7 @@
   },
   {
     "id": 314,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Renée",
     "shortDescription": "Villager",
     "description": "Renée in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4397,7 +4397,7 @@
   },
   {
     "id": 315,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Reneigh",
     "shortDescription": "Villager",
     "description": "Reneigh in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4411,7 +4411,7 @@
   },
   {
     "id": 316,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rex",
     "shortDescription": "Villager",
     "description": "Rex in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4425,7 +4425,7 @@
   },
   {
     "id": 317,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rhonda",
     "shortDescription": "Villager",
     "description": "Rhonda in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4439,7 +4439,7 @@
   },
   {
     "id": 318,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ribbot",
     "shortDescription": "Villager",
     "description": "Ribbot in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4453,7 +4453,7 @@
   },
   {
     "id": 319,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ricky",
     "shortDescription": "Villager",
     "description": "Ricky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4467,7 +4467,7 @@
   },
   {
     "id": 320,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rilla",
     "shortDescription": "Villager",
     "description": "Rilla in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4481,7 +4481,7 @@
   },
   {
     "id": 321,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rio",
     "shortDescription": "Villager",
     "description": "Rio in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4495,7 +4495,7 @@
   },
   {
     "id": 322,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rizzo",
     "shortDescription": "Villager",
     "description": "Raddle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4509,7 +4509,7 @@
   },
   {
     "id": 323,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Roald",
     "shortDescription": "Villager",
     "description": "Roald in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4523,7 +4523,7 @@
   },
   {
     "id": 324,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Robin",
     "shortDescription": "Villager",
     "description": "Robin in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4537,7 +4537,7 @@
   },
   {
     "id": 325,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rocco",
     "shortDescription": "Villager",
     "description": "Rocco in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4551,7 +4551,7 @@
   },
   {
     "id": 326,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rocket",
     "shortDescription": "Villager",
     "description": "Rocket in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4565,7 +4565,7 @@
   },
   {
     "id": 327,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rod",
     "shortDescription": "Villager",
     "description": "Rod in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4579,7 +4579,7 @@
   },
   {
     "id": 328,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rodeo",
     "shortDescription": "Villager",
     "description": "Rodeo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4593,7 +4593,7 @@
   },
   {
     "id": 329,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rodney",
     "shortDescription": "Villager",
     "description": "Rodney in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4607,7 +4607,7 @@
   },
   {
     "id": 330,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rolf",
     "shortDescription": "Villager",
     "description": "Rolf in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4621,7 +4621,7 @@
   },
   {
     "id": 331,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rooney",
     "shortDescription": "Villager",
     "description": "Rooney in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4635,7 +4635,7 @@
   },
   {
     "id": 332,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rory",
     "shortDescription": "Villager",
     "description": "Rory in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4649,7 +4649,7 @@
   },
   {
     "id": 333,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Roscoe",
     "shortDescription": "Villager",
     "description": "Roscoe in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4663,7 +4663,7 @@
   },
   {
     "id": 334,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rosie",
     "shortDescription": "Villager",
     "description": "Rosie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4677,7 +4677,7 @@
   },
   {
     "id": 335,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Roswell",
     "shortDescription": "Villager",
     "description": "Roswell in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4691,7 +4691,7 @@
   },
   {
     "id": 336,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rowan",
     "shortDescription": "Villager",
     "description": "Rowan in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4705,7 +4705,7 @@
   },
   {
     "id": 337,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ruby",
     "shortDescription": "Villager",
     "description": "Ruby in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4719,7 +4719,7 @@
   },
   {
     "id": 338,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Rudy",
     "shortDescription": "Villager",
     "description": "Rudy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 339,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sally",
     "shortDescription": "Villager",
     "description": "Sally in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4747,7 +4747,7 @@
   },
   {
     "id": 340,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Samson",
     "shortDescription": "Villager",
     "description": "Samson in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4761,7 +4761,7 @@
   },
   {
     "id": 341,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sandy",
     "shortDescription": "Villager",
     "description": "Sandy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4775,7 +4775,7 @@
   },
   {
     "id": 342,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sasha",
     "shortDescription": "Villager",
     "description": "Sasha in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4789,7 +4789,7 @@
   },
   {
     "id": 343,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Savannah",
     "shortDescription": "Villager",
     "description": "Savannah in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4803,7 +4803,7 @@
   },
   {
     "id": 344,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Scoot",
     "shortDescription": "Villager",
     "description": "Scoot in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4817,7 +4817,7 @@
   },
   {
     "id": 345,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Shari",
     "shortDescription": "Villager",
     "description": "Shari in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4831,7 +4831,7 @@
   },
   {
     "id": 346,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sheldon",
     "shortDescription": "Villager",
     "description": "Sheldon in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4845,7 +4845,7 @@
   },
   {
     "id": 347,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Shep",
     "shortDescription": "Villager",
     "description": "Shep in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4859,7 +4859,7 @@
   },
   {
     "id": 348,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sherb",
     "shortDescription": "Villager",
     "description": "Sherb in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4873,7 +4873,7 @@
   },
   {
     "id": 349,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Shino",
     "shortDescription": "Villager",
     "description": "Shino in Animal Crossing New Horizons. Available in-game after the 2.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4887,7 +4887,7 @@
   },
   {
     "id": 350,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Simon",
     "shortDescription": "Villager",
     "description": "Simon in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4901,7 +4901,7 @@
   },
   {
     "id": 351,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Skye",
     "shortDescription": "Villager",
     "description": "Skye in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4915,7 +4915,7 @@
   },
   {
     "id": 352,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sly",
     "shortDescription": "Villager",
     "description": "Sly in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4929,7 +4929,7 @@
   },
   {
     "id": 353,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Snake",
     "shortDescription": "Villager",
     "description": "Snake in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4943,7 +4943,7 @@
   },
   {
     "id": 354,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Snooty",
     "shortDescription": "Villager",
     "description": "Snooty in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4957,7 +4957,7 @@
   },
   {
     "id": 355,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Soleil",
     "shortDescription": "Villager",
     "description": "Soleil in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4971,7 +4971,7 @@
   },
   {
     "id": 356,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sparro",
     "shortDescription": "Villager",
     "description": "Sparro in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4985,7 +4985,7 @@
   },
   {
     "id": 357,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Spike",
     "shortDescription": "Villager",
     "description": "Spike in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -4999,7 +4999,7 @@
   },
   {
     "id": 358,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Spork",
     "shortDescription": "Villager",
     "description": "Spork in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5013,7 +5013,7 @@
   },
   {
     "id": 359,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sprinkle",
     "shortDescription": "Villager",
     "description": "Sprinkle in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5027,7 +5027,7 @@
   },
   {
     "id": 360,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sprocket",
     "shortDescription": "Villager",
     "description": "Sprocket in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5041,7 +5041,7 @@
   },
   {
     "id": 361,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Static",
     "shortDescription": "Villager",
     "description": "Static in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5055,7 +5055,7 @@
   },
   {
     "id": 362,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Stella",
     "shortDescription": "Villager",
     "description": "Stella in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5069,7 +5069,7 @@
   },
   {
     "id": 363,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sterling",
     "shortDescription": "Villager",
     "description": "Sterling in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5083,7 +5083,7 @@
   },
   {
     "id": 364,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Stinky",
     "shortDescription": "Villager",
     "description": "Stinky in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5097,7 +5097,7 @@
   },
   {
     "id": 365,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Stitches",
     "shortDescription": "Villager",
     "description": "Stitches in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5111,7 +5111,7 @@
   },
   {
     "id": 366,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Stu",
     "shortDescription": "Villager",
     "description": "Stu in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5125,7 +5125,7 @@
   },
   {
     "id": 367,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sydney",
     "shortDescription": "Villager",
     "description": "Sydney in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5139,7 +5139,7 @@
   },
   {
     "id": 368,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sylvana",
     "shortDescription": "Villager",
     "description": "Sylvana in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5153,7 +5153,7 @@
   },
   {
     "id": 369,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Sylvia",
     "shortDescription": "Villager",
     "description": "Sylvia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5167,7 +5167,7 @@
   },
   {
     "id": 370,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tabby",
     "shortDescription": "Villager",
     "description": "Tabby in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5181,7 +5181,7 @@
   },
   {
     "id": 371,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tad",
     "shortDescription": "Villager",
     "description": "Tad in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5195,7 +5195,7 @@
   },
   {
     "id": 372,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tammi",
     "shortDescription": "Villager",
     "description": "Tammi in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5209,7 +5209,7 @@
   },
   {
     "id": 373,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tammy",
     "shortDescription": "Villager",
     "description": "Tammy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5223,7 +5223,7 @@
   },
   {
     "id": 374,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tangy",
     "shortDescription": "Villager",
     "description": "Tangy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5237,7 +5237,7 @@
   },
   {
     "id": 375,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tank",
     "shortDescription": "Villager",
     "description": "Tank in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5251,7 +5251,7 @@
   },
   {
     "id": 376,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tasha",
     "shortDescription": "Villager",
     "description": "Tasha in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5265,7 +5265,7 @@
   },
   {
     "id": 377,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "T-Bone",
     "shortDescription": "Villager",
     "description": "T-Bone in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5279,7 +5279,7 @@
   },
   {
     "id": 378,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Teddy",
     "shortDescription": "Villager",
     "description": "Teddy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5293,7 +5293,7 @@
   },
   {
     "id": 379,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tex",
     "shortDescription": "Villager",
     "description": "Tex in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5307,7 +5307,7 @@
   },
   {
     "id": 380,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tia",
     "shortDescription": "Villager",
     "description": "Tia in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5321,7 +5321,7 @@
   },
   {
     "id": 381,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tiansheng",
     "shortDescription": "Villager",
     "description": "Tiansheng in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5335,7 +5335,7 @@
   },
   {
     "id": 382,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tiffany",
     "shortDescription": "Villager",
     "description": "Paolo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5349,7 +5349,7 @@
   },
   {
     "id": 383,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Timbra",
     "shortDescription": "Villager",
     "description": "Timbra in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5363,7 +5363,7 @@
   },
   {
     "id": 384,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tipper",
     "shortDescription": "Villager",
     "description": "Tipper in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5377,7 +5377,7 @@
   },
   {
     "id": 385,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Toby",
     "shortDescription": "Villager",
     "description": "Toby in Animal Crossing New Horizons. Available in-game after the 1.9.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5391,7 +5391,7 @@
   },
   {
     "id": 386,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tom",
     "shortDescription": "Villager",
     "description": "Tom in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5405,7 +5405,7 @@
   },
   {
     "id": 387,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Truffles",
     "shortDescription": "Villager",
     "description": "Truffles in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5419,7 +5419,7 @@
   },
   {
     "id": 388,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tucker",
     "shortDescription": "Villager",
     "description": "Paolo in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5433,7 +5433,7 @@
   },
   {
     "id": 389,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tutu",
     "shortDescription": "Villager",
     "description": "Tutu in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5447,7 +5447,7 @@
   },
   {
     "id": 390,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Twiggy",
     "shortDescription": "Villager",
     "description": "Twiggy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 391,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Tybalt",
     "shortDescription": "Villager",
     "description": "Tybalt in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5475,7 +5475,7 @@
   },
   {
     "id": 392,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Ursala",
     "shortDescription": "Villager",
     "description": "Ursala in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5489,7 +5489,7 @@
   },
   {
     "id": 393,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Velma",
     "shortDescription": "Villager",
     "description": "Velma in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5503,7 +5503,7 @@
   },
   {
     "id": 394,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Vesta",
     "shortDescription": "Villager",
     "description": "Vesta in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5517,7 +5517,7 @@
   },
   {
     "id": 395,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Vic",
     "shortDescription": "Villager",
     "description": "Vic in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5531,7 +5531,7 @@
   },
   {
     "id": 396,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Victoria",
     "shortDescription": "Villager",
     "description": "Victoria in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5545,7 +5545,7 @@
   },
   {
     "id": 397,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Violet",
     "shortDescription": "Villager",
     "description": "Violet in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5559,7 +5559,7 @@
   },
   {
     "id": 398,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Vivian",
     "shortDescription": "Villager",
     "description": "Vivian in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5573,7 +5573,7 @@
   },
   {
     "id": 399,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Vladimir",
     "shortDescription": "Villager",
     "description": "Vladimir in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5587,7 +5587,7 @@
   },
   {
     "id": 400,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Wade",
     "shortDescription": "Villager",
     "description": "Wade in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5601,7 +5601,7 @@
   },
   {
     "id": 401,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Walker",
     "shortDescription": "Villager",
     "description": "Walker in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5615,7 +5615,7 @@
   },
   {
     "id": 402,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Walt",
     "shortDescription": "Villager",
     "description": "Walt in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5629,7 +5629,7 @@
   },
   {
     "id": 403,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Wart Jr.",
     "shortDescription": "Villager",
     "description": "Wart Jr. in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5643,7 +5643,7 @@
   },
   {
     "id": 404,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Weber",
     "shortDescription": "Villager",
     "description": "Weber in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5657,7 +5657,7 @@
   },
   {
     "id": 405,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Wendy",
     "shortDescription": "Villager",
     "description": "Wendy in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5671,7 +5671,7 @@
   },
   {
     "id": 406,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Whitney",
     "shortDescription": "Villager",
     "description": "Whitney in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5685,7 +5685,7 @@
   },
   {
     "id": 407,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Willow",
     "shortDescription": "Villager",
     "description": "Willow in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5699,7 +5699,7 @@
   },
   {
     "id": 408,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Winnie",
     "shortDescription": "Villager",
     "description": "Winnie in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5713,7 +5713,7 @@
   },
   {
     "id": 409,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Wolfgang",
     "shortDescription": "Villager",
     "description": "Wolfgang in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5727,7 +5727,7 @@
   },
   {
     "id": 410,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Yuka",
     "shortDescription": "Villager",
     "description": "Yuka in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5741,7 +5741,7 @@
   },
   {
     "id": 411,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Zell",
     "shortDescription": "Villager",
     "description": "Zell in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5755,7 +5755,7 @@
   },
   {
     "id": 412,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Zoe",
     "shortDescription": "Villager",
     "description": "Zoe in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",
@@ -5769,7 +5769,7 @@
   },
   {
     "id": 413,
-    "categoryId": "00-",
+    "category": "villagers",
     "name": "Zucker",
     "shortDescription": "Villager",
     "description": "Zucker in Animal Crossing New Horizons. Available in-game after the 1.0.0 update. Please read our FAQ for instructions regarding purchasing Villagers.",

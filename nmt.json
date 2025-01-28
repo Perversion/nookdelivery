@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "categoryId": "002",
+    "category": "nmt",
     "name": "100 Nook Miles Tickets",
     "shortDescription": "In-Game Ticket",
     "description": "100 Nook Miles Tickets in Animal Crossing New Horizons. Available in-game after the 1.0.0 update.",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "categoryId": "002",
+    "category": "nmt",
     "name": "400 Nook Miles Tickets",
     "shortDescription": "In-Game Ticket",
     "description": "400 Nook Miles Tickets in Animal Crossing New Horizons. Available in-game after the 1.0.0 update.",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "categoryId": "002",
+    "category": "nmt",
     "name": "1200 Nook Miles Tickets",
     "shortDescription": "In-Game Ticket",
     "description": "1200 Nook Miles Tickets in Animal Crossing New Horizons. Available in-game after the 1.0.0 update.",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "categoryId": "002",
+    "category": "nmt",
     "name": "3,600 Nook Miles Tickets",
     "shortDescription": "In-Game Ticket",
     "description": "3,600 Nook Miles Tickets in Animal Crossing New Horizons. Available in-game after the 1.0.0 update.",

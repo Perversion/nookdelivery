@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "categoryId": "001",
+    "category": "bells",
     "name": "600,000 Bells",
     "shortDescription": "In-Game Currency",
     "description": "600,000 Bells in Animal Crossing New Horizons. Be aware Bells may be delivered to you as Royal Crowns or stacks of Gold Nuggets that you must sell to Timmy and Tommy. Please read our FAQ for more information.",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "categoryId": "001",
+    "category": "bells",
     "name": "4,200,000 Bells",
     "shortDescription": "In-Game Currency",
     "description": "4,200,000 Bells in Animal Crossing New Horizons. Be aware Bells may be delivered to you as Royal Crowns or stacks of Gold Nuggets that you must sell to Timmy and Tommy. Please read our FAQ for more information.",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "categoryId": "001",
+    "category": "bells",
     "name": "12,000,000 Bells",
     "shortDescription": "In-Game Currency",
     "description": "12,000,000 Bells in Animal Crossing New Horizons. Be aware Bells may be delivered to you as Royal Crowns or stacks of Gold Nuggets that you must sell to Timmy and Tommy. Please read our FAQ for more information.",
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "categoryId": "001",
+    "category": "bells",
     "name": "36,000,000 Bells",
     "shortDescription": "In-Game Currency",
     "description": "36,000,000 Bells in Animal Crossing New Horizons. Be aware Bells may be delivered to you as Royal Crowns or stacks of Gold Nuggets that you must sell to Timmy and Tommy. Please read our FAQ for more information.",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "categoryId": "001",
+    "category": "bells",
     "name": "108,000,000 Bells",
     "shortDescription": "In-Game Currency",
     "description": "108,000,000 Bells in Animal Crossing New Horizons. Be aware Bells may be delivered to you as Royal Crowns or stacks of Gold Nuggets that you must sell to Timmy and Tommy. Please read our FAQ for more information.",
