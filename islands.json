@@ -1,50 +1,24 @@
 [
   {
-    "id": 1111,
-    "category": "develop",
-    "name": "Dev 1337",
+    "id": 1,
+    "category": "islands",
+    "name": "Island 1",
     "shortDescription": "Green",
     "description": "Green",
     "price": 0.0,
     "discount": 0,
     "quantity": 1,
-    "hot": false,
-    "imageUrl": "Islands/shiratori.png",
-    "variants": [
-      {
-        "id": 1,
-        "name": "",
-        "imageUrl": "Islands/shiratori.png"
-      }
-    ]
+    "imageUrl": "/Islands/shiratori.png"
   },
   {
-    "id": 1112,
-    "category": "develop",
-    "name": "Dev 13333337",
+    "id": 2,
+    "category": "islands",
+    "name": "Island 2",
     "shortDescription": "Green",
     "description": "Green",
     "price": 0.01,
     "discount": 0,
     "quantity": 1,
-    "hot": false,
-    "imageUrl": "Islands/shiratori.png",
-    "variants": [
-      {
-        "id": 1,
-        "name": "test 1",
-        "imageUrl": "Islands/shiratori.png"
-      },
-      {
-        "id": 2,
-        "name": "test 2",
-        "imageUrl": "Islands/shiratori.png"
-      },
-      {
-        "id": 3,
-        "name": "test 3",
-        "imageUrl": "Islands/shiratori.png"
-      }
-    ]
+    "imageUrl": "/Islands/shiratori.png"
   }
 ]
