@@ -8,6 +8,7 @@
     "price": 0.0,
     "discount": 0,
     "quantity": 1,
+    "timed": false,
     "imageUrl": "/Islands/shiratori.png"
   },
   {
@@ -19,6 +20,7 @@
     "price": 0.01,
     "discount": 0,
     "quantity": 1,
+    "timed": true,
     "imageUrl": "/Islands/shiratori.png"
   }
 ]

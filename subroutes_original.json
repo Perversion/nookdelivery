@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Featured",
+    "path": "/featured",
+    "icon": "/assets/icons/gift.svg"
+  },
+  {
+    "id": "Bells",
+    "path": "/bells",
+    "icon": "/assets/icons/bells.svg"
+  },
+  {
+    "id": "Nook Miles Tickets",
+    "path": "/nmt",
+    "icon": "/assets/icons/tickets.svg"
+  },
+  {
+    "id": "Collections",
+    "path": "/collections",
+    "icon": "/assets/icons/collections.svg"
+  },
+  {
+    "id": "Islands",
+    "path": "/islands",
+    "icon": "/assets/icons/islands.svg"
+  },
+  {
+    "id": "Furniture",
+    "path": "/furniture",
+    "icon": "/assets/icons/leaf.svg"
+  },
+  {
+    "id": "Clothing",
+    "path": "/clothing",
+    "icon": "/assets/icons/clothing.svg"
+  },
+  {
+    "id": "Materials",
+    "path": "/materials",
+    "icon": "/assets/icons/materials.svg"
+  },
+  {
+    "id": "DIY Recipes",
+    "path": "/diy",
+    "icon": "/assets/icons/recipes.svg"
+  },
+  {
+    "id": "Villagers",
+    "path": "/villagers",
+    "icon": "/assets/icons/villagers.svg"
+  },
+  {
+    "id": "Gyroids",
+    "path": "/gyroids",
+    "icon": "/assets/icons/gyroids.svg"
+  },
+  {
+    "id": "Garden",
+    "path": "/garden",
+    "icon": "/assets/icons/mailbox.svg"
+  },
+  {
+    "id": "Photos & Posters",
+    "path": "/photo",
+    "icon": "/assets/icons/poster.svg"
+  },
+  {
+    "id": "Artwork",
+    "path": "/art",
+    "icon": "/assets/icons/artwork.svg"
+  },
+  {
+    "id": "Fossils",
+    "path": "/fossils",
+    "icon": "/assets/icons/fossil.svg"
+  },
+  {
+    "id": "Holdables",
+    "path": "/holdables",
+    "icon": "/assets/icons/holdables.svg"
+  },
+  {
+    "id": "Music",
+    "path": "/music",
+    "icon": "/assets/icons/music.svg"
+  },
+  {
+    "id": "Fencing",
+    "path": "/fencing",
+    "icon": "/assets/icons/fence.svg"
+  }
+]
