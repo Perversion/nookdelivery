@@ -1,22 +1,24 @@
 [
+ 
   {
     "id": 1,
     "category": "islands",
-    "name": "Island 1",
-    "shortDescription": "Green",
-    "description": "Green",
-    "price": 0.0,
+    "name": "⭐ Pinkaloo ⭐",
+    "shortDescription": "",
+    "description": "All NON-CATALOGABLE items before 2.0 update. Refer to map. Island fully stocked during every trip.",
+    "price": 0.01,
     "discount": 0,
     "quantity": 1,
-    "timed": false,
+    "timed": true,
     "imageUrl": "/Islands/shiratori.png"
   },
+
   {
     "id": 2,
     "category": "islands",
-    "name": "Island 2",
-    "shortDescription": "Green",
-    "description": "Green",
+    "name": "⭐ Shiratori ⭐",
+    "shortDescription": "",
+    "description":"All new Nook Mile Redemption Items\n ALL CATALOGABLE warehouse and miscellaneous furniture with all variation/colors with display (you can either catalog them or take them home)\n All 281 new DIY recipes\n All gyroids of all variation/colors with display.\n  All food and beverages with display.\n Island fully stocked during every trip..",
     "price": 0.01,
     "discount": 0,
     "quantity": 1,
@@ -24,3 +26,4 @@
     "imageUrl": "/Islands/shiratori.png"
   }
 ]
+ 
