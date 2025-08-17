@@ -27,7 +27,7 @@
   },
 
     {
-    "id": 2,
+    "id": 3,
     "category": "islands",
     "name": "🏝️ Svartal 🏝️",
     "shortDescription": "",
@@ -40,7 +40,7 @@
   },
 
   {
-    "id": 2,
+    "id": 4,
     "category": "islands",
     "name": "🏝️ Furniture 🏝️",
     "shortDescription": "",
@@ -53,7 +53,7 @@
   },
 
   {
-    "id": 2,
+    "id": 5,
     "category": "islands",
     "name": "🏝️ Clothing 🏝️",
     "shortDescription": "",
@@ -63,6 +63,42 @@
     "quantity": 1,
     "timed": true,
     "imageUrl": "/Islands/shiratori.png"
-  }
+  },
+  {
+    "id": 6,
+    "category": "islands",
+    "name": "🏝️ Day 🏝️",
+    "shortDescription": "",
+    "description":"A full one day pass for access to all 5 islands. Islands fully stocked during every trip.",
+    "price": 0.01,
+    "discount": 0,
+    "quantity": 1,
+    "timed": false,
+    "imageUrl": "/Islands/shiratori.png"
+    },
+{
+    "id": 7,
+    "category": "islands",
+    "name": "🏝️ Werek 🏝️",
+    "shortDescription": "",
+    "description":"A full one week pass for access to all 5 islands. Islands fully stocked during every trip.",
+    "price": 0.01,
+    "discount": 0 ,
+    "quantity": 1,
+    "timed": false,
+    "imageUrl": "/Islands/shiratori.png"
+    },
+    {
+    "id": 8,
+    "category": "islands",
+    "name": "🏝️ ,Month 🏝️",
+    "shortDescription": "",
+    "description":"A full one month pass for access to all 5 islands. Islands fully stocked during every trip.",
+    "price": 0.01,
+    "discount": 0,
+    "quantity": 1,
+    "timed": false,
+    "imageUrl": "/Islands/shiratori.png"
+    }
 ]
  
