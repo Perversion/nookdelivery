@@ -10,7 +10,7 @@
     "discount": 23,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/bells1.png",
+    "imageUrl": "/bells/bells2.png",
     "variants": []
   },
   {
@@ -24,7 +24,7 @@
     "discount": 28,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/bells2.png",
+    "imageUrl": "/bells/bells3.png",
     "variants": []
   },
   {
@@ -38,7 +38,7 @@
     "discount": 50,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/bells3.png",
+    "imageUrl": "/bells/bells4.png",
     "variants": []
   },
   {
@@ -52,7 +52,7 @@
     "discount": 58,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/bells4.png",
+    "imageUrl": "/bells/bells5.png",
     "variants": []
   },
   {
@@ -66,7 +66,7 @@
     "discount": 63,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/bells5.png",
+    "imageUrl": "/bells/bells6.png",
     "variants": []
   }
 ]
