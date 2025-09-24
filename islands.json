@@ -79,7 +79,7 @@
 {
     "id": 7,
     "category": "islands",
-    "name": "🏝️ Werek 🏝️",
+    "name": "🏝️ Week 🏝️",
     "shortDescription": "",
     "description":"A full one week pass for access to all 5 islands. Islands fully stocked during every trip.",
     "price": 0.01,
@@ -91,7 +91,7 @@
     {
     "id": 8,
     "category": "islands",
-    "name": "🏝️ ,Month 🏝️",
+    "name": "🏝️ Month 🏝️",
     "shortDescription": "",
     "description":"A full one month pass for access to all 5 islands. Islands fully stocked during every trip.",
     "price": 0.01,
