@@ -74,7 +74,7 @@
     "discount": 0,
     "quantity": 1,
     "timed": false,
-    "imageUrl": "/Islands/shiratori.png"
+    "imageUrl": "/sub/1day.png"
     },
 {
     "id": 7,
@@ -86,7 +86,7 @@
     "discount": 0 ,
     "quantity": 1,
     "timed": false,
-    "imageUrl": "/Islands/shiratori.png"
+    "imageUrl": "/sub/1week.png"
     },
     {
     "id": 8,
@@ -98,7 +98,7 @@
     "discount": 0,
     "quantity": 1,
     "timed": false,
-    "imageUrl": "/Islands/shiratori.png"
+    "imageUrl": "/sub/1month.png"
     }
 ]
  
