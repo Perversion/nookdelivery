@@ -70,8 +70,8 @@
     "name": "🏝️ Day 🏝️",
     "shortDescription": "",
     "description":"A full one day pass for access to all 5 islands. Islands fully stocked during every trip.",
-    "price": 9.99,
-    "discount": 0,
+    "price": 10.99,
+    "discount": 10,
     "quantity": 1,
     "timed": false,
     "imageUrl": "/sub/1day.png"
@@ -82,8 +82,8 @@
     "name": "🏝️ Week 🏝️",
     "shortDescription": "",
     "description":"A full one week pass for access to all 5 islands. Islands fully stocked during every trip.",
-    "price": 19.99,
-    "discount": 0 ,
+    "price": 21.99,
+    "discount": 10 ,
     "quantity": 1,
     "timed": false,
     "imageUrl": "/sub/1week.png"
@@ -94,8 +94,8 @@
     "name": "🏝️ Month 🏝️",
     "shortDescription": "",
     "description":"A full one month pass for access to all 5 islands. Islands fully stocked during every trip.",
-    "price": 29.99,
-    "discount": 0,
+    "price": 32.99,
+    "discount": 10,
     "quantity": 1,
     "timed": false,
     "imageUrl": "/sub/1month.png"
