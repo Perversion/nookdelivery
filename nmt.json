@@ -10,7 +10,7 @@
     "discount": 25,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/nmt1.png",
+    "imageUrl": "/nmt/nmt2.png",
     "variants": []
   },
   {
@@ -24,7 +24,7 @@
     "discount": 37,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/nmt2.png",
+    "imageUrl": "/nmt/nmt3.png",
     "variants": []
   },
   {
@@ -38,7 +38,7 @@
     "discount": 47,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/nmt3.png",
+    "imageUrl": "/nmt/nmt4.png",
     "variants": []
   },
   {
@@ -52,7 +52,7 @@
     "discount": 58,
     "quantity": 1,
     "hot": false,
-    "imageUrl": "/images/nmt4.png",
+    "imageUrl": "/nmt/nmt5.png",
     "variants": []
   }
 ]
